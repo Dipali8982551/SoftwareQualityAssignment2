@@ -129,6 +129,9 @@ namespace Products.nunitTests
             var product = new Product(1, "Test Product", 100, 10);
             product.DecreaseStock(5);
             Assert.That(product.Stock, Is.EqualTo(5));
+
+
+
         }
 
         [Test]
