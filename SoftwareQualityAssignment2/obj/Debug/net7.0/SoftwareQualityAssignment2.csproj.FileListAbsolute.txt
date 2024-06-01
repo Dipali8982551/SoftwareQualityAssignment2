@@ -1,0 +1,15 @@
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\bin\Debug\net7.0\SoftwareQualityAssignment2.exe
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\bin\Debug\net7.0\SoftwareQualityAssignment2.deps.json
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\bin\Debug\net7.0\SoftwareQualityAssignment2.runtimeconfig.json
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\bin\Debug\net7.0\SoftwareQualityAssignment2.dll
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\bin\Debug\net7.0\SoftwareQualityAssignment2.pdb
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\obj\Debug\net7.0\SoftwareQualityAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\obj\Debug\net7.0\SoftwareQualityAssignment2.AssemblyInfoInputs.cache
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\obj\Debug\net7.0\SoftwareQualityAssignment2.AssemblyInfo.cs
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\obj\Debug\net7.0\SoftwareQualityAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\obj\Debug\net7.0\SoftwareQualityAssignment2.sourcelink.json
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\obj\Debug\net7.0\SoftwareQualityAssignment2.dll
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\obj\Debug\net7.0\refint\SoftwareQualityAssignment2.dll
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\obj\Debug\net7.0\SoftwareQualityAssignment2.pdb
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\obj\Debug\net7.0\SoftwareQualityAssignment2.genruntimeconfig.cache
+C:\Users\pmeet\OneDrive\Desktop\W-24\PROG_8551_5\SoftwareQualityAssignment2\SoftwareQualityAssignment2\obj\Debug\net7.0\ref\SoftwareQualityAssignment2.dll

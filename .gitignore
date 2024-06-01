@@ -1,0 +1,36 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder config directory
+*.log
+*.user
+*.tlog
+*.vspscc
+.vscode/
+.vs/
+*.VC.db
+*.obj/
+*.exe
+*.pdb
+*.ipch/
+*.aps
+*.ncb
+*.sdf
+*.suo
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vspx
+*.vspxproj
+*.vdproj
+*.ruleset
+*.rdlc
+*.rptproj
+*.rptproj.user
+*.xsd
+*.xss
+*.vshost.exe
+*.vshost.exe.manifest
+*.vshost.exe.config
+*.tlog/
+*.lastcodeanalysissucceeded
+_ReSharper/
